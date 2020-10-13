@@ -41,7 +41,7 @@ try {
 </head>
 
 <body>
-
+require __DIR__.'/vendor/autoload.php';
     <!-- Navigation -->
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
